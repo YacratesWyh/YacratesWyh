@@ -1,7 +1,8 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif" width="200"/>
 </div>
+
 - 🔭 I’m currently working on AIGC matters at Deepsymph in Beijing, including FaceBeauty, FaceID, lightweight model, background generation, etc.
 - 🌱 I’m currently learning multiple backend and methods in ComfyUI custom node, as well as model implementation. Also I'm interested in voice synthesis.
 - 👯 I’m looking to collaborate on ComfyUI related repo and Diffusion research.
