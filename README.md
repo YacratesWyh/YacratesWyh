@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on AIGC matters at Deepsymph in Beijing, including FaceBeauty, FaceID, lightweight model, background generation, etc.
+- 🌱 I’m currently learning multiple backend and methods in ComfyUI custom node, as well as model implementation. Also I'm interested in voice synthesis.
+- 👯 I’m looking to collaborate on ComfyUI related repo and Diffusion research.
+- 😄 I graduated from THU and dropout from CUHKSZ as a PhD precandidate. I was suffering from Bipolar disorder due to staying up late and lack of sun, yet I'm proud to say I've conquered 5-Hydroxytryptamine in my brain and feel satisfied of my rehabilitation.
+- ⚡ I know some ABC of adversarial attack and ElecDesign works, I'm practicing Roland electric piano recently.
 <!--
 **YacratesWyh/YacratesWyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
